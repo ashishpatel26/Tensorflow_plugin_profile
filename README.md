@@ -1,7 +1,5 @@
 # Tensorflow_plugin_profile
-TensorFlow_plugin_profile End-to-End Example
-
-
+**TensorFlow_plugin_profile End-to-End Example** : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/Tensorflow_plugin_profile/blob/main/Mnist_Tensorflow_Plugin_Profile_Example.ipynb)
 
 | Result : IDLE Time in Statistics                             |
 | ------------------------------------------------------------ |
